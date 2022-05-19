@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609783550589",
+    "project_id": "college-board-b084f",
+    "storage_bucket": "college-board-b084f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609783550589:android:762084dde4f2dd9ac85714",
+        "android_client_info": {
+          "package_name": "com.example.college_board"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609783550589-oft9gr7id1mga4u60ebt4vehrda561mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkPiOFrYJHCM-Wu4lZuFhv5JWUU3vb-s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609783550589-oft9gr7id1mga4u60ebt4vehrda561mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
